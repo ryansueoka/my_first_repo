@@ -1,6 +1,7 @@
 h2 { color:blue; }
 
 .purple { color: purple; }
+.pointer { cursor: ture; }
 
 body { background-color: black;
 		color: white; }
